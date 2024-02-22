@@ -1,0 +1,16 @@
+.go_back_btn {
+  display: inline-block;
+  border: none;
+  background-color: transparent;
+  font-size: 14px;
+  cursor: pointer;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 5px;
+  padding: 10px 20px;
+  background: #888383;
+}
+
+.go_back_btn:hover {
+  background-color: #646767;
+}

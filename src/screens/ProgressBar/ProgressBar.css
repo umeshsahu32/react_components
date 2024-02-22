@@ -1,0 +1,45 @@
+.progress_bar_body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 3rem;
+}
+
+.progress {
+  height: 20px;
+  width: 500px;
+  background: #e4e2e2;
+  border: 1px solid black;
+  border-radius: 15px;
+  position: relative;
+  overflow: hidden;
+}
+
+.progress span {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.progress div {
+  height: 100%;
+  width: 10%;
+  background-color: #00c251;
+}
+
+.reset_button {
+  display: inline-block;
+  border: none;
+  background-color: transparent;
+  font-size: 14px;
+  cursor: pointer;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 5px;
+  padding: 10px 20px;
+  background: #00c251;
+  margin-right: 2rem;
+}

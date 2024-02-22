@@ -1,0 +1,35 @@
+1. Why you want to join Bonami software?
+I am genuinely enthusiastic about the opportunity to join Bonami Software because the technology stack utilized aligns closely with my existing experience. Having worked extensively with similar technologies in my previous roles, I believe I can quickly integrate into the team and contribute effectively from day one. Moreover, what excites me the most about Bonami is the diverse range of technologies and tools it employs. I see this as an excellent opportunity not only to deepen my expertise but also to broaden my skill set by gaining experience in areas that I haven't had the chance to explore fully yet. also i am eager to be a part of this culture of innovation and contribute my skills towards the company's success.
+ 
+ 
+2. What are your strength and weakness?
+ One of my key strengths is my ability to effectively communicate and collaborate with team members. In my previous role at Codeswift, I led a team on a project where clear communication was crucial for success. I organized regular team meetings and ensured that everyone's input was heard and valued. As a result, we were able to streamline our processes, improve efficiency, and deliver the project ahead of schedule."
+ 
+ One area I've identified for improvement is my tendency to take on too much responsibility at times, which can occasionally lead to feeling overwhelmed. However, I've learned to address this by prioritizing tasks more effectively and delegating responsibilities when necessary. I've also been proactive in seeking feedback from mentors and colleagues to help me better manage my workload and maintain a healthy work-life balance. 
+ 
+ 
+3. Can you work on weekends and night?
+ I am open to working night shifts and weekends as needed to support the objectives of the company. I understand that some roles require flexibility in scheduling, and I am fully committed to meeting the demands of the job. In my previous roles, I have occasionally worked outside regular hours to ensure project deadlines were met and urgent issues were addressed promptly. While I recognize the importance of being available when the workload demands it, I also prioritize maintaining a healthy work-life balance. I believe in effective time management and setting boundaries to ensure that work commitments do not overshadow personal well-being. 
+
+4. Can you work under pressure?
+Yes, I can work under pressure because I always wanted to put myself in challenging situations. After all, it helps me to check my ability and overall performance of my work.
+
+5. What are your short-Term Goals?
+In the short term, my primary goal is to quickly integrate into the team and familiarize myself with the responsibilities of the role. I aim to contribute effectively to ongoing projects and initiatives while also proactively seeking opportunities to further develop my skills in AWS and mobile app development. 
+
+6. What are your long-Term Goals?
+In the long term, I envision myself taking on increasing levels of responsibility and leadership within the organization. Additionally, I am committed to ongoing learning and development to stay ahead of industry trends and maintain my relevance in an ever-evolving landscape."
+
+7. How long would you expect to work for us if hire
+I'm genuinely excited about the opportunity to join [Company Name] and contribute to its success. My intention is to commit to this role for the foreseeable future and make meaningful contributions to the team and the organization. However, I also understand that career paths can evolve over time, and I'm open to exploring new opportunities for growth and advancement within the company if they arise.
+
+My primary focus right now is on establishing myself in this role, learning as much as I can, and delivering results that align with the company's objectives.
+
+8 Tell me about Bonami softwere
+Bonami softwere offers outsourcing services for full stack , android app, e-comers, cloud and blockchain. also provide On-Demand product teams. Bonami softwere have 100+ client including kotak, apna app, pokerbaazi, crossroads etc with 200+ projects
+
+9. Why are you looking for a job change
+I have thoroughly enjoyed my time at my current company and am grateful for the opportunities I've had to learn and grow. However, after several years in my current role, I feel that I've reached a point where I'm ready for new challenges and opportunities for advancement.
+
+10. Tell me about yourself?
+Hello, I'm Umesh Sahu, originally from Gwalior, Madhya Pradesh. In 2018, I completed my engineering degree at the Institute of Technology and Management in Gwalior. Currently, I am based in Bangalore, where I've been working as a full-stack developer at CodeSwift Technology for the past two years. In this role, I'm responsible for creating user-friendly and responsive UIs, integrating REST APIs, writing unit test cases, and fostering open communication within our team. I'm passionate about leveraging technology to solve complex problems and am eager to continue growing and contributing in the field of software development.
