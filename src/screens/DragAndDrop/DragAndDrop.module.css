@@ -1,0 +1,170 @@
+body {
+  scrollbar-width: thin;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.app {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #afcded;
+  font-family: sans-serif;
+}
+
+.heading {
+  text-transform: uppercase;
+  font-size: 40px;
+  margin: 30px 0;
+  color: rgb(23, 5, 69);
+  z-index: 1;
+  text-align: center;
+}
+
+.input {
+  display: flex;
+  width: 60%;
+  position: relative;
+  align-items: center;
+}
+
+.input__box {
+  width: 100%;
+  border-radius: 50px;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  transition: 0.2s;
+  box-shadow: inset 0 0 5px black;
+}
+
+.input__box:focus {
+  box-shadow: 0 0 10px 1000px rgba(0, 0, 0, 0.5);
+  outline: none;
+}
+
+.input_submit {
+  position: absolute;
+  width: 60px;
+  height: 30px;
+  margin: 12px;
+  border-radius: 50px;
+  right: 0px;
+  border: none;
+  font-size: 12px;
+  background-color: #2f74c0;
+  color: white;
+  transition: 0.2s all;
+  box-shadow: 0 0 10px black;
+}
+
+.input_submit:hover {
+  background-color: #388ae2;
+}
+
+.input_submit:active {
+  transform: scale(0.8);
+  box-shadow: 0 0 5px black;
+}
+
+.container {
+  width: 60%;
+  display: flex;
+  margin-top: 10px;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.allTask {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  width: 47.5%;
+  padding: 10px 15px;
+  background-color: rgb(50, 195, 205);
+}
+
+.drag_active {
+  background-color: rgb(0, 221, 236);
+}
+
+.drag_complete {
+  background-color: rgb(255, 38, 0);
+}
+
+.remove {
+  background-color: rgb(235, 103, 80);
+}
+
+.task__heading {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+.task__single {
+  display: flex;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-top: 15px;
+  background-image: url("https://img.freepik.com/free-photo/crumpled-yellow-paper-background-close-up_60487-2390.jpg?size=626&ext=jpg");
+  transition: 0.2s;
+}
+
+.drag {
+  box-shadow: 0 0 20px black;
+}
+
+.task__single:hover {
+  box-shadow: 0 0 5px black;
+  transform: scale(1.03);
+}
+
+.task__single__text {
+  flex: 1;
+  padding: 5px;
+  border: none;
+  font-size: 16px;
+}
+
+.task__single__text:focus {
+  outline: none;
+}
+
+.icon {
+  margin-left: 10px;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+@media (max-width: 1100px) {
+  .allTask {
+    width: 45%;
+  }
+}
+
+@media (max-width: 700px) {
+  .input {
+    width: 95%;
+  }
+  .container {
+    width: 95%;
+    flex-direction: column;
+  }
+  .allTask {
+    width: 95%;
+    margin-bottom: 10px;
+  }
+}
+
+::-webkit-scrollbar {
+  height: 12px;
+  width: 5px;
+  background: #000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #5f5f5f;
+}

@@ -19,8 +19,8 @@ const Home = () => {
         <Link to="/LoginOtp">Login Otp</Link>
         <Link to="/PasswordGenerator">Password Generator</Link>
         <Link to="/Breadcrumbs">Breadcrumbs</Link>
-        <Link to="/DarkMode">Dark Mode</Link>
-        <Link to="/ShoppingCart">Shopping Cart</Link>
+        <Link to="/DragAndDrop">Drag & Drop</Link>
+        <Link to="/ShopCartHome">Shopping Cart</Link>
       </div>
     </Fragment>
   );
